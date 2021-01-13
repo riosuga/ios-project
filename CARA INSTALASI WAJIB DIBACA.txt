@@ -1,0 +1,9 @@
+1. install npm/yarn dan nodejs terlebih dahulu
+2. buka cmd/ command prompt bila apple
+3. buka ke pathnya
+4. ketikan command "npm install" untuk apple bisa install yarn
+5. npx cap open ios
+6. akan otomatis diarahkan ke folder project XCODE Apple
+
+
+by Rio Suga Catra Pratama - 41817110155
